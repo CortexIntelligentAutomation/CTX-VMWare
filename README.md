@@ -1,6 +1,7 @@
 <a href="https://www.cortex-ia.co.uk/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
 
-# CTX-VMWare  Cortex Subtasks which interact with VMWare.
+# CTX-VMWare  
+Cortex Subtasks which interact with VMWare.
 
 The subtasks below are contained within the VMWare Cortex Library. 
 * Create VM From Template
